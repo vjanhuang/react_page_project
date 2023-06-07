@@ -3,4 +3,4 @@
 ## 使用方式 `npm start`
 启动项目，然后浏览器打开[http://localhost:3000](http://localhost:3000).
 ## 预览
-![image]()
+![image](https://github.com/MmerungIndividual/react_page_project/blob/master/preview.png)
